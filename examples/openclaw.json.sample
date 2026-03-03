@@ -1,0 +1,9 @@
+{
+  "agent": {
+    "name": "Core",
+    "model": "default"
+  },
+  "skills": {
+    "entries": {}
+  }
+}
